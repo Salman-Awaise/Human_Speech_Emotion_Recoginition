@@ -1,5 +1,4 @@
-# Human_Speech_Emotion_Recoginition
-
+## Human Speech Emotion Recognition
 1. Project Overview
 This project aims to recognize human emotions from speech recordings using audio signal processing and machine learning techniques. The system processes audio files, extracts key features, and classifies them into different emotion categories.
 
